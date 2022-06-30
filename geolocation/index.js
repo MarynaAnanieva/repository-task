@@ -20,6 +20,5 @@ function showTemperature(response) {
 }
 
 navigator.geolocation.getCurrentPosition(retrievePosition);
-// console.log(position);
 // console.log(position.coords.latitude);
 // console.log(position.coords.longitude);
